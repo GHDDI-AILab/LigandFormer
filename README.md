@@ -1,7 +1,6 @@
 # Ligandformer
 
-[![Paper](https://img.shields.io/badge/Paper-Ligandformer.pdf-red)](Ligandformer.pdf)
-(https://arxiv.org/abs/2202.10873)
+[![Paper](https://img.shields.io/badge/Paper-Ligandformer.pdf-red)](https://arxiv.org/abs/2202.10873)
 
 Ligandformer is a multi-layer self-attention graph neural network for molecular property prediction with robust atom-level interpretation. This repository contains:
 
