@@ -140,11 +140,14 @@ Requires a TeX Live distribution with `fancyhdr`, `units` (nicefrac), `microtype
 If you find this work useful, please cite:
 
 ```bibtex
-@article{guo2026ligandformer,
-  title={Ligandformer: a graph neural network for predicting compound property with robust interpretation},
-  author={Guo, Jinjiang and Liu, Qi and Guo, Han and Lu, Xi},
-  journal={arXiv preprint},
-  year={2026}
+@misc{guo2026ligandformergraphneuralnetwork,
+      title={Ligandformer: A Graph Neural Network for Predicting Compound Property with Robust Interpretation}, 
+      author={Jinjiang Guo and Qi Liu and Han Guo and Xi Lu},
+      year={2026},
+      eprint={2202.10873},
+      archivePrefix={arXiv},
+      primaryClass={q-bio.BM},
+      url={https://arxiv.org/abs/2202.10873}, 
 }
 ```
 
